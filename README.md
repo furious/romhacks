@@ -3,6 +3,15 @@
 Here is the place I'll release all my contributions of romhack restoration and retro game fixes. Enjoy!
 
 Latest Releases:
+### Super Campeones 4
+Build: `02/04/2021`
+
+**tsubasa4-fix.sfc, tsubasa4-fix.asm** 
+- removed multiple protections
+
+**tsubasa4.sfc**
+- original dump provided by comandosnesperu
+
 ### Solano Soccer 99
 Build: `14/07/2020`
 
