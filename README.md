@@ -3,6 +3,28 @@
 Here is the place I'll release all my contributions of romhack restoration and retro game fixes. Enjoy!
 
 Latest Releases:
+### Latin America Soccer
+Build: `20/03/2026`
+
+**lasoccer-fix.sfc, lasoccer-fix.asm**
+- restored some original instructions to defeat copy protection
+- removed copier header
+
+**lasoccer.sfc**
+- original dump provided by Carlos Baldo (chbaldo)
+
+### Contra 98
+Build: `10/06/2022`
+
+**contra98-fix.sfc, contra98-fix.asm**
+- fixed rom mapping issue
+- removed extra internal header
+- fixed gaining lives issues
+- fixed starting lives settings
+
+**contra98.sfc**
+- original dump provided by Tilipe Games and Leandro
+
 ### Super Campeones 4
 Build: `02/04/2021`
 
@@ -22,11 +44,11 @@ Build: `14/07/2020`
 - original dump provided by comandosnesperu
 
 ##### Donate/Support: 
-- PicPay: https://picpay.me/furious
 - Pix: https://livepix.gg/furious
-- PayPal: https://ko-fi.com/furious
 - Apoia-se: http://apoia.se/furious
-- Twitch: http://subs.twitch.tv/furious
+- PayPal: https://ko-fi.com/furious
 - Patreon: http://patreon.com/furious
+- Twitch: http://subs.twitch.tv/furious
 
-Special thanks to [CLE](https://twitter.com/ALMCLE) for beta testing.
+Special thanks:
+- [CLE](https://twitter.com/ALMCLE) for beta testing.
