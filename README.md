@@ -34,6 +34,18 @@ Build: `02/04/2021`
 **tsubasa4.sfc**
 - original dump provided by comandosnesperu
 
+### Campeonato Brasileiro II
+Build: `04/01/2021`
+
+**cb2-fix.sfc, cb2-fix.asm**
+- bypassed copy protection routines
+- restored save routines
+- restored main menu options and save loading
+- added dump credits to the intro
+
+**cb2.sfc**
+- original dump from the cartridge provided by [CLE](https://twitter.com/ALMCLE)
+
 ### Solano Soccer 99
 Build: `14/07/2020`
 
